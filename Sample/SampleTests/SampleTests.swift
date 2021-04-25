@@ -11,6 +11,6 @@ import XCTest
 final class SampleTests: XCTestCase {
     
     func test_sum() {
-        XCTAssertEqual(Calculator.sum(lhs: 1, rhs: 2), 4)
+        XCTAssertEqual(Calculator.sum(lhs: 1, rhs: 2), 5)
     }
 }
